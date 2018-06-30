@@ -1,0 +1,81 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(l.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+h2.beda{
+	padding-top: 20px;
+	margin-left: 20px;
+	font-family: arial;
+	color: white;
+}
+
+.box {
+	background:grey;
+	opacity: 0.7;
+	margin-top: 80px;
+    margin-bottom: 400px;
+    margin-right: 450px;
+    margin-left: 450px;
+}
+.judul{
+	font-family: impact;
+	font-size: 50px;
+	color:#2C97DF;
+	text-shadow: 2px 2px 2px #000;
+}
+h3{
+	font-family: verdana;
+	text-align: center;
+	font-size: 30px;
+	color:white;
+	text-shadow: 2px 2px 2px #000;
+}
+.tab{
+	margin-left: 70px;
+	padding-top: ;
+	height: 30px;
+	width: 300px;
+}
+.pad{
+	padding-left:70px;
+	margin-bottom: 1px;
+	color: white;
+	font-family: arial;
+}
+
+.another {
+	padding-left: 70px;
+	margin-top:10px;
+	padding-bottom: 15px;
+	color: white;
+}
+
+
+.change{
+	margin-left: 70px;
+	padding-bottom: 10px;
+	height: 30px;
+	width: 300px;
+
+	border-color: white;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	background-color: transparent;
+}
+.tombol{
+  background:#2C97DF;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:5px solid #2A80B9;
+  padding:10px 20px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+}
